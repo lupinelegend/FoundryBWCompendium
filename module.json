@@ -17,77 +17,88 @@
             "label": "Common Skills",
             "module": "foundry-bw-compendium",
             "path": "packs/common-skills.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         },
         {
             "name": "common-traits",
             "label": "Common Traits",
             "module": "foundry-bw-compendium",
             "path": "packs/common-traits.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         },
         {
             "name": "dwarven-lifepaths",
             "label": "Dwarven Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/dwarven-lifepaths.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "system": "burningwheel"
         },
         {
             "name": "dwarven-traits",
             "label": "Dwarven Traits",
             "module": "foundry-bw-compendium",
             "path": "packs/dwarven-traits.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         },
         {
             "name": "elven-lifepaths",
             "label": "Elven Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/elven-lifepaths.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "system": "burningwheel"
         },
         {
             "name": "elven-traits",
             "label": "Elven Traits",
             "module": "foundry-bw-compendium",
             "path": "packs/elven-traits.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         },
         {
             "name": "human-lifepaths",
             "label": "Human Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/human-lifepaths.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "system": "burningwheel"
         },
         {
             "name": "melee-weapons",
             "label": "Melee Weapons",
             "module": "foundry-bw-compendium",
             "path": "packs/melee-weapons.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         },
         {
             "name": "orcish-lifepaths",
             "label": "Orcish Lifepaths",
             "module": "foundry-bw-compendium",
             "path": "packs/orcish-lifepaths.db",
-            "entity": "Actor"
+            "entity": "Actor",
+            "system": "burningwheel"
         },
         {
             "name": "orc-traits",
             "label": "Orc Traits",
             "module": "foundry-bw-compendium",
             "path": "packs/orc-traits.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         },
         {
             "name": "ranged-weapons",
             "label": "Ranged Weapons",
             "module": "foundry-bw-compendium",
             "path": "packs/ranged-weapons.db",
-            "entity": "Item"
+            "entity": "Item",
+            "system": "burningwheel"
         }
     ]
 }
